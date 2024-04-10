@@ -30,7 +30,7 @@ const data = [
   [i++, "Sneha Sahu", "48267286", "./fifth batch/Sneha Sahu_48267286/1.bmp", "./fifth batch/Sneha Sahu_48267286/2.bmp", "./fifth batch/Sneha Sahu_48267286/3.bmp", "./fifth batch/Sneha Sahu_48267286/4.bmp", "./fifth batch/Sneha Sahu_48267286/5.bmp"],
  [i++,"Shikha Kumari","19001980","./fifth batch/Shikha Kumari_19001980/1.bmp","./fifth batch/Shikha Kumari_19001980/2.bmp","./fifth batch/Shikha Kumari_19001980/3.bmp","./fifth batch/Shikha Kumari_19001980/4.bmp","./fifth batch/Shikha Kumari_19001980/5.bmp"],
 [i++,"Swati Bharati","39211771","./fifth batch/Swati Bharati_39211771/1.bmp","./fifth batch/Swati Bharati_39211771/2.bmp","./fifth batch/Swati Bharati_39211771/3.bmp","./fifth batch/Swati Bharati_39211771/4.bmp","./fifth batch/Swati Bharati_39211771/5.bmp"],
-[i++,"Tanish Modanwal","5185730","./fifth batch/Tanish Modanwal_5185730/1.bmp","./fifth batch/Tanish Modanwal_5185730/2.bmp","./fifth batch/Tanish Modanwal_5185730/3.bmp","./fifth batch/Tanish Modanwal_5185730/4.bmp","./fifth batch/Tanish Modanwal_5185730/5.bmp"],
+[i++,"Tanish Modanwal","5185730","./fifth batch/Tanish Modanwal_5185730/1.bmp","./fifth batch/Tanish Modanwal_5185730/2.bmp","./fifth batch/Tanish Modanwal_5185730/3.jpg","./fifth batch/Tanish Modanwal_5185730/4.bmp","./fifth batch/Tanish Modanwal_5185730/5.bmp"],
 [i++,"Vijay Bahadur Pal","76986092","./fifth batch/Vijay Bahadur Pal_76986092/1.bmp","./fifth batch/Vijay Bahadur Pal_76986092/2.bmp","./fifth batch/Vijay Bahadur Pal_76986092/3.bmp","./fifth batch/Vijay Bahadur Pal_76986092/4.bmp","./fifth batch/Vijay Bahadur Pal_76986092/5.bmp"]
 
 
