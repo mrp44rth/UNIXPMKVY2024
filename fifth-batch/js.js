@@ -3,7 +3,6 @@ let i = 1;
 const data = [
  // add data here
 [i++,"Aarju Maurya","58158992","./fifth batch/Aarju Maurya_58158992/1.bmp","./fifth batch/Aarju Maurya_58158992/2.bmp","./fifth batch/Aarju Maurya_58158992/3.bmp","./fifth batch/Aarju Maurya_58158992/4.bmp","./fifth batch/Aarju Maurya_58158992/5.bmp"],
-[i++,"Sneha Sahu","48267286","./fifth batch/Sneha Sahu_48267286/1.bmp","./fifth batch/Sneha Sahu_48267286/2.bmp","./fifth batch/Sneha Sahu_48267286/3.bmp","./fifth batch/Sneha Sahu_48267286/4.bmp","./fifth batch/Sneha Sahu_48267286/5.bmp"],
 [i++,"Akash Kumar","92781930","./fifth batch/Akash Kumar_92781930/1.bmp","./fifth batch/Akash Kumar_92781930/2.bmp","./fifth batch/Akash Kumar_92781930/3.bmp","./fifth batch/Akash Kumar_92781930/4.bmp","./fifth batch/Akash Kumar_92781930/5.bmp"],
 [i++,"Akash Yadav","70346876","./fifth batch/Akash Yadav_70346876/1.bmp","./fifth batch/Akash Yadav_70346876/2.bmp","./fifth batch/Akash Yadav_70346876/3.bmp","./fifth batch/Akash Yadav_70346876/4.bmp","./fifth batch/Akash Yadav_70346876/5.bmp"],
 [i++,"Ameesha Bind","91263201","./fifth batch/Ameesha Bind_91263201/1.bmp","./fifth batch/Ameesha Bind_91263201/2.bmp","./fifth batch/Ameesha Bind_91263201/3.bmp","./fifth batch/Ameesha Bind_91263201/4.bmp","./fifth batch/Ameesha Bind_91263201/5.bmp"],
