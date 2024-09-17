@@ -3,8 +3,8 @@ let i = 1;
 const data = [
  // add data here
 [i++, "Shaloo trainer", "94127375", "./Shaloo trainer/1.bmp", "./Shaloo trainer/2.bmp", "./Shaloo trainer/3.bmp", "./Shaloo trainer/4.bmp", "./Shaloo trainer/5.bmp"],
- [i++, "P44RTH", "86774148", "./P44RTH/1.bmp", "./P44RTH/2.bmp", "./P44RTH/3.bmp", "./P44RTH/4.bmp", "./P44RTH/5.bmp"],
- [i++, "Gagan Prasad", "10789195", "./Gagan Prasad/1.bmp", "./Gagan Prasad/2.bmp", "./Gagan Prasad/3.bmp", "./Gagan Prasad/4.bmp", "./Gagan Prasad/5.bmp"],
+ [i++, "P44RTH", "86774148", "./P4RTH/1.bmp", "./P4RTH/2.bmp", "./P4RTH/3.bmp", "./P4RTH/4.bmp", "./P4RTH/5.bmp"],
+ [i++, "Gagan Prasad", "10789195", "./Gagan Prasd/1.bmp", "./Gagan Prasd/2.bmp", "./Gagan Prasd/3.bmp", "./Gagan Prasd/4.bmp", "./Gagan Prasd/5.bmp"],
  [i++, "Priyanka Gupta", "84105864", "./Priyanka Gupta/1.bmp", "./Priyanka Gupta/2.bmp", "./Priyanka Gupta/3.bmp", "./Priyanka Gupta/4.bmp", "./Priyanka Gupta/5.bmp"],
 
          // 1-30 are done....
